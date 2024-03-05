@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EOS</string>
+    <string name="btn_send">SEND</string>
+    <string name="btn_receive">RECEIVE</string>
+</resources>
