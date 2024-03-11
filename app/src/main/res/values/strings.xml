@@ -2,4 +2,7 @@
     <string name="app_name">EOS</string>
     <string name="btn_send">SEND</string>
     <string name="btn_receive">RECEIVE</string>
+    <string name="hint">Text Input Material #</string>
+    <string name="dev_name">Device Name</string>
+    <string name="term_name">Control Terminals</string>
 </resources>

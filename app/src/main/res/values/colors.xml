@@ -4,6 +4,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="alabaster">#FFE4E0D8</color>
     <color name="charcoal">#FF323232</color>
-    <color name="rifle_green">#FF414833</color>
+    <color name="rifle_green">#FF20211d</color>
     <color name="teal_blue">#FF297C7A</color>
+    <color name="platinum">#E2E2E2</color>
+    <color name="eerie_black">#15191D</color>
+    <color name="cultured">#F6F3F2</color>
 </resources>
